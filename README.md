@@ -6,7 +6,7 @@
 
 <h1 align="center">MoneyBuddy 1.0.0</h1>
 
-<p style="text-align: justify">
+<p style="text-align: justify;">
   The Personal Finance Management System is a comprehensive financial tracking and analysis platform designed to empower users in managing their personal finances effectively. This system offers a user-friendly interface for tracking income, expenses, and transfers, allowing users to add transactions manually or upload data from CSV files. With support for multiple payment types and categories, users can meticulously categorize and manage their financial activities.
 </p>
 <br>
