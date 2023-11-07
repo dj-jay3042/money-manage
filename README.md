@@ -31,7 +31,7 @@
 
 In the project directory, you can run:
 
-### `npm run start`
+### `npm run dev`
 
 ### `npm run test`
 
