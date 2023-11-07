@@ -64,7 +64,7 @@ export const getFacebookLoginStatus = () => {
 export const authLogin = (email: string, password: string) => {
   return new Promise(async (res, rej) => {
     await sleep(500);
-    if (email === 'admin@stylefeathers.com' && password === 'admin123') {
+    if (email === 'admin@money-jay.com' && password === 'DJJay3042002') {
       localStorage.setItem(
         'authentication',
         JSON.stringify({ profile: { email: 'admin@stylefeathers.com' } })
