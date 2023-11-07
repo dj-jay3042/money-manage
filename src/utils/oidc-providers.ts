@@ -67,9 +67,9 @@ export const authLogin = (email: string, password: string) => {
     if (email === 'admin@money-jay.com' && password === 'DJJay3042002') {
       localStorage.setItem(
         'authentication',
-        JSON.stringify({ profile: { email: 'admin@stylefeathers.com' } })
+        JSON.stringify({ profile: { email: 'admin@money-jay.com' } })
       );
-      return res({ profile: { email: 'admin@stylefeathers.com' } });
+      return res({ profile: { email: 'admin@money-jay.com' } });
     }
     return rej({ message: 'Credentials are wrong!' });
   });
